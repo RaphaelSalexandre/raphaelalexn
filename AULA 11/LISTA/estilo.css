@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+
+h1 { 
+		text-align: center;
+		color: #abcde;
+		
+	 }
+	 h2	{
+	 	text-align: center;
+	 	color: #012345;	
+	 	
+	 }
+	 p {
+	 	text-align: justify;
+	 	text-indent: 50px ;
+	 }
+ body 
+ { background: lightgray; }
